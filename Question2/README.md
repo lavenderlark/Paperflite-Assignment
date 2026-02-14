@@ -67,14 +67,14 @@ Constraint:
 ## Sample Run
 
 ### Input
-```
+
 Enter the number as a string:
 1432219
 Enter the number of digits to remove (k):
 3
-```
+
 
 ### Output
-```
+
 The smallest possible number after removing 3 digits is: 1219
-```
+

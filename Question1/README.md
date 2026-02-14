@@ -61,14 +61,14 @@ Constraint:
 ## Sample Run
 
 ### Input
-```
+
 Enter number of elements:
 5
 Enter the elements of the array:
 7 3 5 3 7
-```
+
 
 ### Output
-```
+
 The single number is: 5
-```
+
