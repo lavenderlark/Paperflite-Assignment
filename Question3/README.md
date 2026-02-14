@@ -65,14 +65,14 @@ Constraint:
 ## Sample Run
 
 ### Input
-
+```
 Enter pattern:
 abba
 Enter string:
 dog cat cat dog
-
+```
 
 ### Output
-
+```
 String follows the pattern: true
-
+```
